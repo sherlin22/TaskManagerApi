@@ -56,3 +56,8 @@ GET /api/tasks/{id} → Get a task by Id
 POST /api/tasks → Create a new task
 PUT /api/tasks/{id} → Update an existing task
 DELETE /api/tasks/{id} → Delete a task
+
+# Task Manager API
+
+## Swagger UI Screenshot
+![Swagger UI](docs/images/swagger.png)
